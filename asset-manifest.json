@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-crud/static/css/main.7f0f5042.chunk.css",
-    "main.js": "/react-crud/static/js/main.08f00385.chunk.js",
-    "main.js.map": "/react-crud/static/js/main.08f00385.chunk.js.map",
+    "main.js": "/react-crud/static/js/main.c09be8c3.chunk.js",
+    "main.js.map": "/react-crud/static/js/main.c09be8c3.chunk.js.map",
     "runtime-main.js": "/react-crud/static/js/runtime-main.10619d90.js",
     "runtime-main.js.map": "/react-crud/static/js/runtime-main.10619d90.js.map",
     "static/js/2.e83b5cbc.chunk.js": "/react-crud/static/js/2.e83b5cbc.chunk.js",
     "static/js/2.e83b5cbc.chunk.js.map": "/react-crud/static/js/2.e83b5cbc.chunk.js.map",
     "index.html": "/react-crud/index.html",
-    "precache-manifest.cf3141ddd41d51be0d029d8341219905.js": "/react-crud/precache-manifest.cf3141ddd41d51be0d029d8341219905.js",
+    "precache-manifest.69b8b808c6f08ffdf1c71adc7f612f3b.js": "/react-crud/precache-manifest.69b8b808c6f08ffdf1c71adc7f612f3b.js",
     "service-worker.js": "/react-crud/service-worker.js",
     "static/css/main.7f0f5042.chunk.css.map": "/react-crud/static/css/main.7f0f5042.chunk.css.map",
     "static/js/2.e83b5cbc.chunk.js.LICENSE": "/react-crud/static/js/2.e83b5cbc.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.10619d90.js",
     "static/js/2.e83b5cbc.chunk.js",
     "static/css/main.7f0f5042.chunk.css",
-    "static/js/main.08f00385.chunk.js"
+    "static/js/main.c09be8c3.chunk.js"
   ]
 }
